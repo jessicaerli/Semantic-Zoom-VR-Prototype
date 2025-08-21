@@ -1,0 +1,608 @@
+{
+    "items":
+    [
+    {
+        "Lebensmittel": "Buttermilch",
+        "Kategorie": "Milch- oder Eiprodukt",
+        "Eiweiß": "3.5",
+        "Fett": "0.5",
+        "Kohlenhydrate": "4",
+        "Kilokalorien": "35",
+        "Verarbeitungsgrad": "i (unverarbeitet)"
+    },
+    {
+        "Lebensmittel": "Doppelrahmfrischkäse",
+        "Kategorie": "Milch- oder Eiprodukt",
+        "Eiweiß": "4.5",
+        "Fett": "31.5",
+        "Kohlenhydrate": "4",
+        "Kilokalorien": "318",
+        "Verarbeitungsgrad": "iii (verarbeitet)"
+    },
+    {
+        "Lebensmittel": "Fruchtquark, 20% Fett",
+        "Kategorie": "Milch- oder Eiprodukt",
+        "Eiweiß": "10",
+        "Fett": "3.7",
+        "Kohlenhydrate": "12.7",
+        "Kilokalorien": "124",
+        "Verarbeitungsgrad": "iii (verarbeitet)"
+    },
+    {
+        "Lebensmittel": "Gouda, 40% Fett",
+        "Kategorie": "Milch- oder Eiprodukt",
+        "Eiweiß": "24.7",
+        "Fett": "22.3",
+        "Kohlenhydrate": "0",
+        "Kilokalorien": "300",
+        "Verarbeitungsgrad": "ii (wenig verarbeitet)"
+    },
+    {
+        "Lebensmittel": "Hühnerei (Gesamtinhalt)",
+        "Kategorie": "Milch- oder Eiprodukt",
+        "Eiweiß": "12.9",
+        "Fett": "11.7",
+        "Kohlenhydrate": "0.6",
+        "Kilokalorien": "159",
+        "Verarbeitungsgrad": "i (unverarbeitet)"
+    },
+    {
+        "Lebensmittel": "Hühnereigelb",
+        "Kategorie": "Milch- oder Eiprodukt",
+        "Eiweiß": "16.1",
+        "Fett": "31.9",
+        "Kohlenhydrate": "0.3",
+        "Kilokalorien": "353",
+        "Verarbeitungsgrad": "i (unverarbeitet)"
+    },
+    {
+        "Lebensmittel": "Hühnereiklar",
+        "Kategorie": "Milch- oder Eiprodukt",
+        "Eiweiß": "10.9",
+        "Fett": "0.2",
+        "Kohlenhydrate": "0.7",
+        "Kilokalorien": "48",
+        "Verarbeitungsgrad": "i (unverarbeitet)"
+    },
+    {
+        "Lebensmittel": "Kuhmilch, H-Milch, fettarm",
+        "Kategorie": "Milch- oder Eiprodukt",
+        "Eiweiß": "3.4",
+        "Fett": "1.5",
+        "Kohlenhydrate": "4.9",
+        "Kilokalorien": "47",
+        "Verarbeitungsgrad": "ii (wenig verarbeitet)"
+    },
+    {
+        "Lebensmittel": "Kuhmilch, Trinkmilch, 3,5%",
+        "Kategorie": "Milch- oder Eiprodukt",
+        "Eiweiß": "3.3",
+        "Fett": "3.5",
+        "Kohlenhydrate": "4.8",
+        "Kilokalorien": "64",
+        "Verarbeitungsgrad": "ii (wenig verarbeitet)"
+    },
+    {
+        "Lebensmittel": "Mozzarella",
+        "Kategorie": "Milch- oder Eiprodukt",
+        "Eiweiß": "18.6",
+        "Fett": "19.8",
+        "Kohlenhydrate": "0",
+        "Kilokalorien": "255",
+        "Verarbeitungsgrad": "ii (wenig verarbeitet)"
+    },
+    {
+        "Lebensmittel": "Speisequark, 20% Fett",
+        "Kategorie": "Milch- oder Eiprodukt",
+        "Eiweiß": "10.5",
+        "Fett": "5.1",
+        "Kohlenhydrate": "3.4",
+        "Kilokalorien": "102",
+        "Verarbeitungsgrad": "ii (wenig verarbeitet)"
+    },
+    {
+        "Lebensmittel": "Speisequark, 40% Fett",
+        "Kategorie": "Milch- oder Eiprodukt",
+        "Eiweiß": "11.1",
+        "Fett": "11.4",
+        "Kohlenhydrate": "3.3",
+        "Kilokalorien": "160",
+        "Verarbeitungsgrad": "ii (wenig verarbeitet)"
+    },
+    {
+        "Lebensmittel": "Speisequark, mager",
+        "Kategorie": "Milch- oder Eiprodukt",
+        "Eiweiß": "13.5",
+        "Fett": "0.3",
+        "Kohlenhydrate": "4",
+        "Kilokalorien": "73",
+        "Verarbeitungsgrad": "ii (wenig verarbeitet)"
+    },
+    {
+        "Lebensmittel": "Ziegenkäse, Weichkäse, 45% Fett",
+        "Kategorie": "Milch- oder Eiprodukt",
+        "Eiweiß": "21",
+        "Fett": "21.8",
+        "Kohlenhydrate": "0",
+        "Kilokalorien": "280",
+        "Verarbeitungsgrad": "ii (wenig verarbeitet)"
+    },
+    {
+        "Lebensmittel": "Ananas, roh",
+        "Kategorie": "Obst",
+        "Eiweiß": "0.4",
+        "Fett": "0.2",
+        "Kohlenhydrate": "12.4",
+        "Kilokalorien": "55",
+        "Verarbeitungsgrad": "i (unverarbeitet)"
+    },
+    {
+        "Lebensmittel": "Apfel, ungeschält, roh",
+        "Kategorie": "Obst",
+        "Eiweiß": "0.3",
+        "Fett": "0.6",
+        "Kohlenhydrate": "11.4",
+        "Kilokalorien": "54",
+        "Verarbeitungsgrad": "i (unverarbeitet)"
+    },
+    {
+        "Lebensmittel": "Avocado, roh",
+        "Kategorie": "Obst",
+        "Eiweiß": "1.9",
+        "Fett": "23.5",
+        "Kohlenhydrate": "0.4",
+        "Kilokalorien": "221",
+        "Verarbeitungsgrad": "i (unverarbeitet)"
+    },
+    {
+        "Lebensmittel": "Banane, roh",
+        "Kategorie": "Obst",
+        "Eiweiß": "1.1",
+        "Fett": "0.2",
+        "Kohlenhydrate": "21.4",
+        "Kilokalorien": "94",
+        "Verarbeitungsgrad": "i (unverarbeitet)"
+    },
+    {
+        "Lebensmittel": "Brombeere, roh",
+        "Kategorie": "Obst",
+        "Eiweiß": "1.2",
+        "Fett": "1",
+        "Kohlenhydrate": "6.2",
+        "Kilokalorien": "44",
+        "Verarbeitungsgrad": "i (unverarbeitet)"
+    },
+    {
+        "Lebensmittel": "Brombeerkonfitüre",
+        "Kategorie": "Obst",
+        "Eiweiß": "0.5",
+        "Fett": "0.4",
+        "Kohlenhydrate": "63.1",
+        "Kilokalorien": "259",
+        "Verarbeitungsgrad": "iv (stark verarbeitet)"
+    },
+    {
+        "Lebensmittel": "Erdbeere, roh",
+        "Kategorie": "Obst",
+        "Eiweiß": "0.8",
+        "Fett": "0.4",
+        "Kohlenhydrate": "5.5",
+        "Kilokalorien": "32",
+        "Verarbeitungsgrad": "i (unverarbeitet)"
+    },
+    {
+        "Lebensmittel": "Erdbeerkonfitüre",
+        "Kategorie": "Obst",
+        "Eiweiß": "0.3",
+        "Fett": "0.2",
+        "Kohlenhydrate": "62.6",
+        "Kilokalorien": "256",
+        "Verarbeitungsgrad": "iv (stark verarbeitet)"
+    },
+    {
+        "Lebensmittel": "Heidelbeeren, roh",
+        "Kategorie": "Obst",
+        "Eiweiß": "0.7",
+        "Fett": "0.6",
+        "Kohlenhydrate": "6.1",
+        "Kilokalorien": "37",
+        "Verarbeitungsgrad": "i (unverarbeitet)"
+    },
+    {
+        "Lebensmittel": "Honigmelone, roh - Fruchtfleisch",
+        "Kategorie": "Obst",
+        "Eiweiß": "0.9",
+        "Fett": "0.1",
+        "Kohlenhydrate": "12.4",
+        "Kilokalorien": "54",
+        "Verarbeitungsgrad": "i (unverarbeitet)"
+    },
+    {
+        "Lebensmittel": "Kiwi",
+        "Kategorie": "Obst",
+        "Eiweiß": "0.9",
+        "Fett": "0.6",
+        "Kohlenhydrate": "9.1",
+        "Kilokalorien": "50",
+        "Verarbeitungsgrad": "i (unverarbeitet)"
+    },
+    {
+        "Lebensmittel": "Mandarinen, roh",
+        "Kategorie": "Obst",
+        "Eiweiß": "0.6",
+        "Fett": "0.3",
+        "Kohlenhydrate": "10.2",
+        "Kilokalorien": "46",
+        "Verarbeitungsgrad": "i (unverarbeitet)"
+    },
+    {
+        "Lebensmittel": "Mango, roh",
+        "Kategorie": "Obst",
+        "Eiweiß": "0.5",
+        "Fett": "0.5",
+        "Kohlenhydrate": "12.8",
+        "Kilokalorien": "59",
+        "Verarbeitungsgrad": "i (unverarbeitet)"
+    },
+    {
+        "Lebensmittel": "Pfirsisch, roh",
+        "Kategorie": "Obst",
+        "Eiweiß": "0.7",
+        "Fett": "0.1",
+        "Kohlenhydrate": "9.4",
+        "Kilokalorien": "43",
+        "Verarbeitungsgrad": "i (unverarbeitet)"
+    },
+    {
+        "Lebensmittel": "Wassermelone",
+        "Kategorie": "Obst",
+        "Eiweiß": "0.6",
+        "Fett": "0.2",
+        "Kohlenhydrate": "8.3",
+        "Kilokalorien": "37",
+        "Verarbeitungsgrad": "i (unverarbeitet)"
+    },
+    {
+        "Lebensmittel": "Weintrauben, roh",
+        "Kategorie": "Obst",
+        "Eiweiß": "0.7",
+        "Fett": "0.3",
+        "Kohlenhydrate": "15.2",
+        "Kilokalorien": "68",
+        "Verarbeitungsgrad": "i (unverarbeitet)"
+    },
+    {
+        "Lebensmittel": "Schoko-Müsli",
+        "Kategorie": "Frühstück",
+        "Eiweiß": "10",
+        "Fett": "11.5",
+        "Kohlenhydrate": "63.8",
+        "Kilokalorien": "399",
+        "Verarbeitungsgrad": "iv (stark verarbeitet)"
+    },
+    {
+        "Lebensmittel": "Vollkornbrot mit Sonnenblumenkernen",
+        "Kategorie": "Backwaren",
+        "Eiweiß": "9",
+        "Fett": "3.9",
+        "Kohlenhydrate": "39.9",
+        "Kilokalorien": "231",
+        "Verarbeitungsgrad": "ii (wenig verarbeitet)"
+    },
+    {
+        "Lebensmittel": "Vollkornzwieback",
+        "Kategorie": "Backwaren",
+        "Eiweiß": "17",
+        "Fett": "8",
+        "Kohlenhydrate": "56",
+        "Kilokalorien": "364",
+        "Verarbeitungsgrad": "iii (verarbeitet)"
+    },
+    {
+        "Lebensmittel": "Weißbrot",
+        "Kategorie": "Backwaren",
+        "Eiweiß": "7.5",
+        "Fett": "1.2",
+        "Kohlenhydrate": "48",
+        "Kilokalorien": "233",
+        "Verarbeitungsgrad": "iii (verarbeitet)"
+    },
+    {
+        "Lebensmittel": "Weizenbrötchen (Semmeln)",
+        "Kategorie": "Backwaren",
+        "Eiweiß": "8.3",
+        "Fett": "1.9",
+        "Kohlenhydrate": "55.5",
+        "Kilokalorien": "272",
+        "Verarbeitungsgrad": "iii (verarbeitet)"
+    },
+    {
+        "Lebensmittel": "Weizenmischbrot",
+        "Kategorie": "Backwaren",
+        "Eiweiß": "6.2",
+        "Fett": "1.1",
+        "Kohlenhydrate": "47.7",
+        "Kilokalorien": "226",
+        "Verarbeitungsgrad": "ii (wenig verarbeitet)"
+    },
+    {
+        "Lebensmittel": "Weizenschrot- und Vollkornbrot",
+        "Kategorie": "Backwaren",
+        "Eiweiß": "7.8",
+        "Fett": "1",
+        "Kohlenhydrate": "41",
+        "Kilokalorien": "204",
+        "Verarbeitungsgrad": "ii (wenig verarbeitet)"
+    },
+    {
+        "Lebensmittel": "Weizentoastbrot",
+        "Kategorie": "Backwaren",
+        "Eiweiß": "6.9",
+        "Fett": "4.5",
+        "Kohlenhydrate": "48",
+        "Kilokalorien": "260",
+        "Verarbeitungsgrad": "iii (verarbeitet)"
+    },
+    {
+        "Lebensmittel": "Butter (Süß- und Sauerrahm)",
+        "Kategorie": "Milch- oder Eiprodukt",
+        "Eiweiß": "0.7",
+        "Fett": "83.2",
+        "Kohlenhydrate": "0.7",
+        "Kilokalorien": "754",
+        "Verarbeitungsgrad": "ii (wenig verarbeitet)"
+    },
+    {
+        "Lebensmittel": "Butterschmalz",
+        "Kategorie": "Milch- oder Eiprodukt",
+        "Eiweiß": "0.3",
+        "Fett": "99.5",
+        "Kohlenhydrate": "0",
+        "Kilokalorien": "897",
+        "Verarbeitungsgrad": "ii (wenig verarbeitet)"
+    },
+    {
+        "Lebensmittel": "Diätmargarine",
+        "Kategorie": "Milch- oder Eiprodukt",
+        "Eiweiß": "0.2",
+        "Fett": "80",
+        "Kohlenhydrate": "0.2",
+        "Kilokalorien": "722",
+        "Verarbeitungsgrad": "iii (verarbeitet)"
+    },
+    {
+        "Lebensmittel": "Apfelsaft",
+        "Kategorie": "Getränke",
+        "Eiweiß": "0.1",
+        "Fett": "0",
+        "Kohlenhydrate": "11.7",
+        "Kilokalorien": "57",
+        "Verarbeitungsgrad": "iii (verarbeitet)"
+    },
+    {
+        "Lebensmittel": "Aprikosennektar, ca. 40% Fruchtanteil",
+        "Kategorie": "Getränke",
+        "Eiweiß": "0.3",
+        "Fett": "0.1",
+        "Kohlenhydrate": "14.4",
+        "Kilokalorien": "60",
+        "Verarbeitungsgrad": "iii (verarbeitet)"
+    },
+    {
+        "Lebensmittel": "Cola",
+        "Kategorie": "Getränke",
+        "Eiweiß": "0",
+        "Fett": "0",
+        "Kohlenhydrate": "10.9",
+        "Kilokalorien": "57",
+        "Verarbeitungsgrad": "iv (stark verarbeitet)"
+    },
+    {
+        "Lebensmittel": "Granatapfelsaft",
+        "Kategorie": "Getränke",
+        "Eiweiß": "0.2",
+        "Fett": "0",
+        "Kohlenhydrate": "16.7",
+        "Kilokalorien": "69",
+        "Verarbeitungsgrad": "iii (verarbeitet)"
+    },
+    {
+        "Lebensmittel": "Himbeersaft, frisch gepresst",
+        "Kategorie": "Getränke",
+        "Eiweiß": "0.3",
+        "Fett": "0",
+        "Kohlenhydrate": "5.5",
+        "Kilokalorien": "28",
+        "Verarbeitungsgrad": "ii (wenig verarbeitet)"
+    },
+    {
+        "Lebensmittel": "Holunderbeersaft",
+        "Kategorie": "Getränke",
+        "Eiweiß": "2",
+        "Fett": "0",
+        "Kohlenhydrate": "6.8",
+        "Kilokalorien": "38",
+        "Verarbeitungsgrad": "iii (verarbeitet)"
+    },
+    {
+        "Lebensmittel": "Limonaden",
+        "Kategorie": "Getränke",
+        "Eiweiß": "0",
+        "Fett": "0",
+        "Kohlenhydrate": "12",
+        "Kilokalorien": "49",
+        "Verarbeitungsgrad": "iv (stark verarbeitet)"
+    },
+    {
+        "Lebensmittel": "Möhrensaft",
+        "Kategorie": "Getränke",
+        "Eiweiß": "0.6",
+        "Fett": "0",
+        "Kohlenhydrate": "4.8",
+        "Kilokalorien": "22",
+        "Verarbeitungsgrad": "ii (wenig verarbeitet)"
+    },
+    {
+        "Lebensmittel": "Croissant",
+        "Kategorie": "Backwaren",
+        "Eiweiß": "8",
+        "Fett": "23",
+        "Kohlenhydrate": "44",
+        "Kilokalorien": "406",
+        "Verarbeitungsgrad": "iv (stark verarbeitet)"
+    },
+    {
+        "Lebensmittel": "Rührei",
+        "Kategorie": "Milch- oder Eiprodukt",
+        "Eiweiß": "12",
+        "Fett": "15",
+        "Kohlenhydrate": "1",
+        "Kilokalorien": "180",
+        "Verarbeitungsgrad": "ii (wenig verarbeitet)"
+    },
+    {
+        "Lebensmittel": "Muffin",
+        "Kategorie": "Backwaren",
+        "Eiweiß": "5",
+        "Fett": "15",
+        "Kohlenhydrate": "52",
+        "Kilokalorien": "370",
+        "Verarbeitungsgrad": "iv (stark verarbeitet)"
+    },
+    {
+        "Lebensmittel": "Sandwich (mit Schinken)",
+        "Kategorie": "Frühstück",
+        "Eiweiß": "12",
+        "Fett": "10",
+        "Kohlenhydrate": "35",
+        "Kilokalorien": "270",
+        "Verarbeitungsgrad": "iii (verarbeitet)"
+    },
+    {
+        "Lebensmittel": "Bagel",
+        "Kategorie": "Backwaren",
+        "Eiweiß": "10",
+        "Fett": "1.5",
+        "Kohlenhydrate": "50",
+        "Kilokalorien": "250",
+        "Verarbeitungsgrad": "iii (verarbeitet)"
+    },
+    {
+        "Lebensmittel": "Pancakes",
+        "Kategorie": "Backwaren",
+        "Eiweiß": "6",
+        "Fett": "10",
+        "Kohlenhydrate": "45",
+        "Kilokalorien": "275",
+        "Verarbeitungsgrad": "iii (verarbeitet)"
+    },
+    {
+        "Lebensmittel": "French Toast",
+        "Kategorie": "Backwaren",
+        "Eiweiß": "8",
+        "Fett": "7",
+        "Kohlenhydrate": "28",
+        "Kilokalorien": "220",
+        "Verarbeitungsgrad": "iii (verarbeitet)"
+    },
+    {
+        "Lebensmittel": "Donut",
+        "Kategorie": "Backwaren",
+        "Eiweiß": "4",
+        "Fett": "25",
+        "Kohlenhydrate": "40",
+        "Kilokalorien": "450",
+        "Verarbeitungsgrad": "iv (stark verarbeitet)"
+    },
+    {
+        "Lebensmittel": "Haferflocken",
+        "Kategorie": "Frühstück",
+        "Eiweiß": "13.5",
+        "Fett": "7",
+        "Kohlenhydrate": "60.7",
+        "Kilokalorien": "372",
+        "Verarbeitungsgrad": "ii (wenig verarbeitet)"
+    },
+    {
+        "Lebensmittel": "Porridge (zubereitet mit Wasser)",
+        "Kategorie": "Frühstück",
+        "Eiweiß": "4.5",
+        "Fett": "2.4",
+        "Kohlenhydrate": "17.1",
+        "Kilokalorien": "101",
+        "Verarbeitungsgrad": "ii (wenig verarbeitet)"
+    },
+    {
+        "Lebensmittel": "Bircher-Müsli",
+        "Kategorie": "Frühstück",
+        "Eiweiß": "5",
+        "Fett": "3.5",
+        "Kohlenhydrate": "27",
+        "Kilokalorien": "160",
+        "Verarbeitungsgrad": "iii (verarbeitet)"
+    },
+    {
+        "Lebensmittel": "Cornflakes (ungesüßt)",
+        "Kategorie": "Frühstück",
+        "Eiweiß": "7.2",
+        "Fett": "0.8",
+        "Kohlenhydrate": "84",
+        "Kilokalorien": "350",
+        "Verarbeitungsgrad": "iii (verarbeitet)"
+    },
+    {
+        "Lebensmittel": "Knuspermüsli",
+        "Kategorie": "Frühstück",
+        "Eiweiß": "8",
+        "Fett": "10",
+        "Kohlenhydrate": "65",
+        "Kilokalorien": "410",
+        "Verarbeitungsgrad": "iv (stark verarbeitet)"
+    },
+    {
+        "Lebensmittel": "Naturjoghurt, 1,5% Fett",
+        "Kategorie": "Milch- oder Eiprodukt",
+        "Eiweiß": "4",
+        "Fett": "1.5",
+        "Kohlenhydrate": "5",
+        "Kilokalorien": "56",
+        "Verarbeitungsgrad": "ii (wenig verarbeitet)"
+    },
+    {
+        "Lebensmittel": "Früchtemüsli",
+        "Kategorie": "Frühstück",
+        "Eiweiß": "9",
+        "Fett": "6.5",
+        "Kohlenhydrate": "65",
+        "Kilokalorien": "380",
+        "Verarbeitungsgrad": "iii (verarbeitet)"
+    },
+    {
+        "Lebensmittel": "Vollkornhaferbrei",
+        "Kategorie": "Frühstück",
+        "Eiweiß": "5",
+        "Fett": "3",
+        "Kohlenhydrate": "20",
+        "Kilokalorien": "120",
+        "Verarbeitungsgrad": "ii (wenig verarbeitet)"
+    },
+    {
+        "Lebensmittel": "Rührei mit Speck",
+        "Kategorie": "Frühstück",
+        "Eiweiß": "14",
+        "Fett": "25",
+        "Kohlenhydrate": "1.5",
+        "Kilokalorien": "290",
+        "Verarbeitungsgrad": "iii (verarbeitet)"
+    },
+    {
+        "Lebensmittel": "Frühstücksriegel",
+        "Kategorie": "Frühstück",
+        "Eiweiß": "5",
+        "Fett": "8",
+        "Kohlenhydrate": "65",
+        "Kilokalorien": "350",
+        "Verarbeitungsgrad": "iv (stark verarbeitet)"
+    }
+]
+}
